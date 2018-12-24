@@ -1,6 +1,6 @@
 # ASCII Art
 <br>
-A python script that converts an **image** to **ascii art**.
+A python script that converts an image to ascii art.
 
 ### The scripts uses the following libraries:
 1. **Python Image Library (PIL)**
